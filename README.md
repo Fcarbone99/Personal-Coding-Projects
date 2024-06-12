@@ -1,5 +1,5 @@
 - 👋 Hello, my name is Frankie Carbone
-- 👀 I've always been intrigued my computers, tech, and coding
+- 👀 I've always been intrigued by computers, tech, and coding
 - 🌱 I am currently a senior Computer Science Honors Major at Central Connecticut State University
 - 📫 I’m looking to collaborate on anything written in Java, C, or Python at the moment
 - ⚡ Fun fact: Most definitely a car guy

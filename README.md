@@ -9,7 +9,7 @@
 #  -Could add an option to generate a random password for the website you want to save a password too​
 #  -AES operates on a fixed block size of 128 bits so all data must be changed to fit this size​
 
-# -------------------------------------------------------------------------
+# -----------------------------------------------------------------------------
 
 # Snake Game created Spring 2024
 # Authors: Frankie Carbone, Edmond Cani, Abel Kloter

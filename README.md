@@ -4,7 +4,7 @@
 - 📫 I’m looking to collaborate on anything written in Java, C, or Python at the moment
 - ⚡ Fun fact: Most definitely a car guy
 
-# ------------------------------------------------------------------------------
+# --------------------------------------------------------------------
 
 # Password Manager created Spring 2024
 # Author: Frankie Carbone

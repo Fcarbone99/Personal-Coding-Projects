@@ -23,3 +23,30 @@
 # Authors: Frankie Carbone, Edmond Cani, Abel Kloter
 
 # For our application we were tasked to create the classic Snake Game in C. My groupmates and I had restrictions and specifics tasks we were mandated to create (as shown at the top of our code in the comments)
+
+# ------------------------------------------------------------------------------
+
+# Gym Project Website created Fall 2024
+# Authors: Frankie Carbone, Filip Gorczyca, and Omar Abouelgheit
+
+#We wanted to develop a responsive and visually appealing website for a gym, aimed at enhancing user engagement and ease of management. The website will include features for both admin and worker roles, enabling efficient management of gym operations. Key functionalities will include storing gym membership data and fitness class information. 
+Steps for Completion:
+1.	HTML (Structure):
+o	Create pages for gym information, membership sign-up, fitness class schedules, and admin/worker portals.
+o	Use forms for user inputs like membership details, class registrations, etc.
+2.	CSS (Design):
+o	Ensure responsive design using media queries to make the website accessible on multiple devices.
+o	Apply modern, clean styles to make the site visually attractive and user-friendly.
+3.	PHP (Back-End Logic):
+o	Implement a system to manage gym memberships and fitness class data in a database.
+o	Create admin and worker roles, allowing different access levels for viewing, adding, or modifying data.
+o	Develop a secure login system for admins and workers.
+4.	Database Integration:
+o	Use MySQL to store gym member data, class schedules, and user roles.
+o	Connect the database to the website using PHP for dynamic content management and updates.
+5.	Testing & Deployment:
+o	Test the website for functionality, responsiveness, and security.
+o	Deploy on a hosting platform with database support.
+
+# ------------------------------------------------------------------------------
+

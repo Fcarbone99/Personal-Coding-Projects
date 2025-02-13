@@ -1,0 +1,71 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: linear-gradient(135deg, #f06, #f90);
+}
+
+.carousel {
+    width: 80%;
+    margin: 50px auto;
+}
+
+.carousel-item img {
+    object-fit: cover;
+    width: 75%;
+    height: auto;
+}
+
+.carousel-caption h6 {
+    background-color: linear-gradient(135deg, #f06, #f90);
+    color: linear-gradient(135deg, #f06, #f90);
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 5%;
+    height: 50px;
+    background-color: linear-gradient(135deg, #f06, #f90);
+    border-radius: 5px;
+}
+
+.carousel-control-prev {
+    left: 0;
+}
+
+.carousel-control-next {
+    right: 0;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    width: 24px;
+    height: 24px;
+    background-size: 100%, 100%;
+}
+
+.carousel-control-prev-icon {
+    background-image: url('data:image/svg+xml;base64,...');
+    /* Bootstrap icon for prev */
+}
+
+.carousel-control-next-icon {
+    background-image: url('data:image/svg+xml;base64,...');
+    /* Bootstrap icon for next */
+}
+
+.visually-hidden {
+    display: none;
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+    display: block !important;
+}

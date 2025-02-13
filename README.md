@@ -29,7 +29,7 @@
 # Gym Project Website created Fall 2024
 # Authors: Frankie Carbone, Filip Gorczyca, and Omar Abouelgheit
 
-#We wanted to develop a responsive and visually appealing website for a gym, aimed at enhancing user engagement and ease of management. The website will include features for both admin and worker roles, enabling efficient management of gym operations. Key functionalities will include storing gym membership data and fitness class information. 
+#We want to develop a responsive and visually appealing website for a gym, aimed at enhancing user engagement and ease of management. The website will include features for both admin and worker roles, enabling efficient management of gym operations. Key functionalities will include storing gym membership data and fitness class information. 
 Steps for Completion:
 1.	HTML (Structure):
 o	Create pages for gym information, membership sign-up, fitness class schedules, and admin/worker portals.
@@ -47,6 +47,7 @@ o	Connect the database to the website using PHP for dynamic content management a
 5.	Testing & Deployment:
 o	Test the website for functionality, responsiveness, and security.
 o	Deploy on a hosting platform with database support.
+
 
 # ------------------------------------------------------------------------------
 

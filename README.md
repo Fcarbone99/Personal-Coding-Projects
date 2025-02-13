@@ -60,5 +60,6 @@ goal of isolating relevant indicators, alarms, gauges, and bar charts, and detec
 changes in the monitored parameters. These comparisons will be used, when needed, to alert floor
 managers (via email) to significant changes and human intervention with the machine. In addition,
 machine operators and floor managers will be able to view the data based on the alerts and
-information collected, tracking changes in gauges and operation metrics over time.
+information collected, tracking changes in gauges and operation metrics over time. The work for this 
+project for CCSU Robotics Lab so all the code is in their private GitHub Repo
 

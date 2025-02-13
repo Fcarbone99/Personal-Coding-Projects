@@ -51,3 +51,14 @@ o	Deploy on a hosting platform with database support.
 
 # ------------------------------------------------------------------------------
 
+# HMI Data Visualization Acquisition Project Fall 2024
+# Authors: Frankie Carbone, Khosro Pourkavoos, Rajani Bhat, Omar Abouelgheit
+
+The system's overall functionality will include automatically and periodically capturing images of a
+human-machine interface (HMI) and then comparing these images to the ones before it. With the
+goal of isolating relevant indicators, alarms, gauges, and bar charts, and detecting significant
+changes in the monitored parameters. These comparisons will be used, when needed, to alert floor
+managers (via email) to significant changes and human intervention with the machine. In addition,
+machine operators and floor managers will be able to view the data based on the alerts and
+information collected, tracking changes in gauges and operation metrics over time.
+
